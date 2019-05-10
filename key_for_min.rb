@@ -14,5 +14,4 @@
         end
       end
       min_key
-  end 
 end
